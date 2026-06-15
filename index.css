@@ -1,0 +1,80 @@
+body {
+    background-color: #fff8f5;
+}
+
+.navbar {
+    background-color: #f7e6de !important;
+}
+
+.navbar-brand,
+.nav-link {
+    color: #6b3f2a !important;
+    font-weight: 600;
+}
+
+.hero {
+    background: linear-gradient(135deg, #ffd9c8, #fff3eb);
+    padding: 100px 20px;
+    color: #5a3424;
+}
+
+.hero h1 {
+    font-size: 45px;
+}
+
+.hero .btn-primary {
+    background-color: #c96d4f;
+    border-color: #c96d4f;
+}
+
+.hero-picture {
+    max-width: 900px;
+    width: 100%;
+}
+
+.card {
+    margin-bottom: 20px;
+    border: 1px solid #f1d0c4;
+}
+
+.card-body {
+    background-color: #fffdfb;
+}
+
+.about-section {
+    background-color: #f9ece5;
+    padding: 50px;
+    color: #5a3424;
+}
+
+.about-section h2 {
+    color: #b85c3d;
+}
+
+.carousel-image {
+    height: 400px;
+    object-fit: cover;
+}
+h2 {
+    text-align: center;
+    color: purple;
+    margin-bottom: 20px;
+}
+
+h4 {
+    color: black;
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 18px;
+    margin: 8px 0;
+}
+
+section {
+    padding: 30px;
+}
+footer {
+    margin-top: 20px;
+    background-color: #6b3f2a !important;
+}
